@@ -17,3 +17,9 @@
 # 📊 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mguf-sec&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mguf-sec&layout=compact&theme=dark)
+
+# 💰 Support My Journey:
+[![Binance](https://img.shields.io/badge/Binance_Pay-F3BA2F?style=for-the-badge&logo=binance&logoColor=black)](#)
+
+**Pay ID:** 828313013  
+*Powering my Security Labs & Certifications* 🐺
