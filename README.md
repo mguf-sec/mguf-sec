@@ -1,5 +1,5 @@
 # 👋 About Me:
-- 🛡️ Aspiring SOC Analyst | Documenting Hands-On Security Projects | Linux & Network Security.
+- 🛡️ Aspiring SOC Analyst | Learning Cyber Security, and computer science as well.
 - 📹 Documenting 150 hands-on security investigations.
 - 🎓 Learning Cyber Security, Linux, and Network Defense.
 
